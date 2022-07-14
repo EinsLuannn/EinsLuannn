@@ -24,5 +24,5 @@
 
 <h2 align="right">______________________________________________________________________________________</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javainterface&show_icons=true&locale=en" alt="javainterface" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javainterface&show_icons=true&locale=en&layout=compact" alt="javainterface" /></p>
 
