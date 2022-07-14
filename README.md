@@ -4,15 +4,14 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/java_interface" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/java_interface?logo=twitter&style=for-the-badge" alt="https://twitter.com/java_interface" /></a> </p>
 
 - 🔭 I’m currently working on **MCGamesEU**
-
 - 💬 Ask me about **java,mongodb, redux, php, c#**
-
 - 👯 I love using **Programming Languages**
-
 - 🌱 I’m currently learning **Software Engineering**
-
 - 📫 How to reach me **javainterfacejava@gmail.com**
 
+
+
+<h2 align="center">------------------------------------------------</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/java_interface" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/java_interface" height="30" width="40" /></a>
