@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **ArangoDB and Swift**
 
-- 📫 How to reach me **oleschumacher1801@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
